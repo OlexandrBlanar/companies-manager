@@ -1,0 +1,19 @@
+{
+  "name": "companies-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "body-parser": "~1.17.2",
+    "cors": "~2.8.3",
+    "express": "~4.15.3",
+    "materialized-mongoose": "^0.2.0",
+    "mongoose": "^4.10.8",
+    "mongoose-materialized": "^0.2.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
